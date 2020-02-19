@@ -1,0 +1,6 @@
+runtime: nodejs10
+env_variables:
+ masterkey : "CQIGDwMNCQIFBQgPBAIHCA"
+ godaddysecret : "YUP82HXix85rFA8KL6XXiE"
+ godaddykey : "e4N3ALc817Hj_P7JjGjWxZVMM6DyGDzxMbx"
+ 
